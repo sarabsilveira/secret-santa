@@ -1,5 +1,5 @@
 # coding=utf-8
-__author__ = 'sslr'
+__author__ = 'sarabsilveira'
 
 from random import randint
 import itertools
