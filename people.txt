@@ -1,0 +1,2 @@
+family_name1=person1;person2=person_description1;person_description2=person1_email;person2_email
+family_name2=person1;person2=person_description1;person_description2=person1_email;person2_email
